@@ -1,0 +1,7 @@
+code/*/*.json
+*.sol
+*.key
+*.r1cs
+witness
+*.wtns
+out
