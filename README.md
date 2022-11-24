@@ -1,4 +1,4 @@
-# zkp-zokrates-tutorial
+# ZKP Zokrates tutorial
 
 ZKP tutorial using zokrates and Ethereum
 
